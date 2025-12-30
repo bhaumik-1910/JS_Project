@@ -1,4 +1,4 @@
-# 🚀 JavaScript Mini Projects Collection
+# 🚀 JavaScript Mini Projects Collection 
 
 This repository contains a **collection of beginner-friendly JavaScript mini projects** built to practice **core JavaScript concepts, DOM manipulation, and logic building**.
 
