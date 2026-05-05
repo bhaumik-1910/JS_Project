@@ -56,15 +56,10 @@ This repository is licensed under the **MIT License**.
 
 ---
 
-## 👤 Author
-
-**Bhaumik Patel**  
-GitHub: [@bhaumik-1910](https://github.com/bhaumik-1910)
-
----
 
 ## ⭐ Support
 
 If you find these JavaScript projects helpful, please give the repository a ⭐!
 
-
+--- 
+<div align="center"> <p>Made with ❤️ by Bhaumik Kothiya</p> </div>
